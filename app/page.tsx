@@ -3,13 +3,13 @@ import Link from "next/link";
 export default function Home() {
   return (
     // Container principal de toda a página
-    <div className="bg-  ">
+    <div className="bg-[#F5F2E9]  ">
 
       {/* --- CABEÇALHO --- */}
       <div>
-        <div>
-          <h1 className="bg-                                               ">
-            Meio Ambiente
+        <div className ="pt-6">
+          <h1 className="bg-[#704214] text-white   text-center rounded mr-70 ml-70 h-7 font-bold t-5                                               ">
+            Nomenclatura Binomial de Lineu 
           </h1>
           <p>
             <Link href="https://github.com/SEU-NOME/NOME-PROJETO.git">Repositório Github</Link>
